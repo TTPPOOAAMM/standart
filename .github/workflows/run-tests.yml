@@ -22,4 +22,4 @@ jobs:
       run: dotnet build AverageCalculator/AverageCalculator.sln --no-restore
     
     - name: Test
-      run: dotnet test AverageCalculatorTests/AverageCalculatorTests.csproj --no-build --verbosity normal
+      run: dotnet test AverageCalculatorTest/AverageCalculatorTest.csproj --no-build --verbosity normal
