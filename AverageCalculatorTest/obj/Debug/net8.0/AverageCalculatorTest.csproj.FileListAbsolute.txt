@@ -94,3 +94,4 @@ C:\Users\maxva\OneDrive\Desktop\c\AverageCalculatorTest\obj\Debug\net8.0\refint\
 C:\Users\maxva\OneDrive\Desktop\c\AverageCalculatorTest\obj\Debug\net8.0\AverageCalculatorTest.pdb
 C:\Users\maxva\OneDrive\Desktop\c\AverageCalculatorTest\obj\Debug\net8.0\AverageCalculatorTest.genruntimeconfig.cache
 C:\Users\maxva\OneDrive\Desktop\c\AverageCalculatorTest\obj\Debug\net8.0\ref\AverageCalculatorTest.dll
+C:\Users\maxva\OneDrive\Desktop\c\AverageCalculatorTest\obj\Debug\net8.0\AverageCalculatorTest.sourcelink.json

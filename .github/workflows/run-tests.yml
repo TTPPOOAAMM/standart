@@ -10,4 +10,4 @@ jobs:
         with:
           dotnet-version: 6.0.x
       - name: Run tests
-        run: dotnet test
+        run: dotnet test AverageCalculatorTest/AverageCalculatorTest.csproj
